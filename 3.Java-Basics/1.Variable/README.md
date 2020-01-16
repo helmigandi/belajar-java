@@ -2,9 +2,7 @@
 ----------
 1.  Pengertian Variable
 Variable adalah nama yang merujuk pada suatu area memori dimana value atau nilai disimpan. Variable bisa juga merupakan perintah untuk komputer menyimpan suatu nilai di *RAM*.
-<p align="center">
-	![Variable-Example](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/1.Variable/varaible-example.jpg "Variable-Example")
-</p>
+![Variable-Example](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/1.Variable/varaible-example.jpg "Variable-Example")
 Dalam membuat vairable biasa disebut deklarasi dan pemberian nilai ke variable tertentu disebut inisialisasi.
 Contoh:
 	```java
