@@ -4,7 +4,7 @@
 Variable adalah nama yang merujuk pada suatu area memori dimana value atau nilai disimpan. Variable bisa juga merupakan perintah untuk komputer menyimpan suatu nilai di *RAM*.
 
 Inline-style: 
-![Variable-Example](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Variable-Example")
+![Variable-Example](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/1.Variable/varaible-example.jpg "Variable-Example")
 
 
 Dalam membuat vairable biasa disebut deklarasi dan pemberian nilai ke variable tertentu disebut inisialisasi.
