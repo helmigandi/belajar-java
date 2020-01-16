@@ -18,7 +18,7 @@ Contoh:
 	        this.serverPort = 10;
 	    }
 	}
-	```
+		```
 2. Penulisan Variable
 `[data_type] [variable_name] = [variable_value];`
 -   **data_type**: Jenis informasi yang disimpan di area memory.
