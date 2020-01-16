@@ -2,7 +2,11 @@
 ----------
 1.  Pengertian Variable
 Variable adalah nama yang merujuk pada suatu area memori dimana value atau nilai disimpan. Variable bisa juga merupakan perintah untuk komputer menyimpan suatu nilai di *RAM*.
-gambar
+
+Inline-style: 
+![Variable-Example](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Variable-Example")
+
+
 Dalam membuat vairable biasa disebut deklarasi dan pemberian nilai ke variable tertentu disebut inisialisasi.
 Contoh:
 	```java
@@ -91,3 +95,8 @@ Sebuah Argument adalah nilai yang dikirim ke method ketika method dipanggil. Seb
 	- Harus ditulis dengan huruf kecil. Seperti, `apel` atau `variable`.
 	- Jika nama variable terdapat banyak kata, maka ikuti notasi *camel case*. Seperti, `deptName` atau `firstName`.
 	- Jika menggunakan *static final* atau konstanta maka nama harus huruf besar semua dan dapat menggunakan `_` sebagai pemisah. Seperti, `LOGGER` atau `INTEREST_RATE`.
+
+
+Sumber:
+- [howtodoinjava.com](https://howtodoinjava.com/java/basics/java-variables/)
+- [www.dimas-maryanto.com/bootcamp/java/](https://www.dimas-maryanto.com/bootcamp/java/core/006-data-type-and-variables)
