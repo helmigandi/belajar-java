@@ -2,6 +2,9 @@
 Java support 3 jenis jump statement: **break**, **continue** dan **return**.
 
 ## Break
+
+![break](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/5.Jump/exit.png "Break")
+
 - Digunakan pada Switch-Case
 - Untuk keluar dari loop
 	```java
@@ -77,6 +80,9 @@ Java menggunakan label untuk mengidentifikasi block code.
 	```
 
 ## Continue
+
+![Continue](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/5.Jump/continue-1.png "Continue Text")
+
 Program akan menghentikan iterasi dan melanjutkan pada iterasi berikutnya pada perulangan.
 ```java
 // Java program to illustrate using 
