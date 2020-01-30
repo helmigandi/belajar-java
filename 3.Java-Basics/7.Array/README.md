@@ -1,6 +1,9 @@
 ﻿# Array
 Array digunakan untuk menyimpan kumpulan variable yang jenisnya sama dalam satu variable.
 **Instantiating an Array in Java**
+
+![Array](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/7.Array/Arrays1.png "Array")
+
 ```
 int intArray[];    //declaring array
 intArray = new int[20];  // allocating memory to array
@@ -119,6 +122,9 @@ Element at 4 : 5 mohit
 ```
 
 **Multidimensional Arrays**
+
+![Array Multidimensi](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/7.Array/Blank-Diagram-Page-1-13.jpeg "Array Multidimensi")
+
 ```
 int[][] intArray = new int[10][20]; //a 2D array or matrix
 int[][][] intArray = new int[10][20][10]; //a 3D array
