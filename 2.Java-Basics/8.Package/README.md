@@ -53,9 +53,7 @@ Package yang dibuat oleh user. Contoh:
 		}
 		```
 	- Tampilan Tree:
-	![gambar ss](https://github.com/helmiz/belajar-java/blob/master/2.Java-Basics/8.Package/Ss.png "Tree image")
-
-	gambar
+		![gambar ss](https://github.com/helmiz/belajar-java/blob/master/2.Java-Basics/8.Package/Ss.png "Tree image")
 
 	- Masuk ke dalam direktori `src` lewat cmd/terminal lalu compile Control.java dengan cara:
 	`javac Control.java -d ../bin`
