@@ -38,7 +38,8 @@ Object adalah dasar dari sebuah OOP dan menggambarkan wujud dalam kehidupan. Jad
 2. Behavior: Menggambarkan Method.
 3. Identity: Nama unik untuk sebuah objek.
 
-gambar
+![object](https://github.com/helmiz/belajar-java/blob/master/3.OOP/1.Class-Object/Blank-Diagram-Page-1-5.png "object")
+
 
 Pada Online Shop system memiliki object seperti: shopping cart, customer, dan product.
 
@@ -46,7 +47,8 @@ Pada Online Shop system memiliki object seperti: shopping cart, customer, dan pr
 Saat Object sudah dibuat maka class siap di *instantiated*. Semua instances berbagi atribut dan behavior dari class. tetapi nilai atribut unik.
 > In programming terms, you can have a class called Apple, which has variables size:big, shape:round, habitat:grows on trees. To have 5 apples in your basket, you need to **_instantiate_** 5 apples. `Apple apple1, Apple apple2, Apple apple3 etc...`
 
-gambar
+![object declare](https://github.com/helmiz/belajar-java/blob/master/3.OOP/1.Class-Object/Blank-Diagram-Page-1-3.png "object declare")
+
 
 ## Initializing an object
 ```java
@@ -115,7 +117,9 @@ public class Dog
 Pada class di atas memiliki constructor yang digunakan untuk initialize objects. Constructor pada _Dog_ class  memiliki empat parameter yang diikuti dengan statement “tuffy”,”papillon”,5,”white” sebagai nilai arguments:
 `Dog tuffy = new Dog("tuffy","papillon",5, "white");`
 
-gambar
+![Dog Object](https://github.com/helmiz/belajar-java/blob/master/3.OOP/1.Class-Object/Untitled5.png "Object Dog")
+
+
 
 ## Multiple Classes
 Kita dapat membuat object class dan mengaksesnya dari class lain. Hal ini sering digunakan supaya lebih mudah dalam pengaturannya. Jadi satu class memiliki semua attributes dan methods, sedangkan class lain memiliki `main()` method yang dapat mengeksekusi.
