@@ -2,7 +2,7 @@
 ## If-Else
 Program akan mengeksekusi bagian kode tertentu. Kika kondisi terpenuhi maka nilainya `true` jika tidak maka  `false`.
 
-gambar
+![if elseif](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/4.Java%20Control%20Flow%20Statements/img/if-elseif.png "If else if")
 
 ```java
 // Java program to illustrate if-else-if ladder 
@@ -27,7 +27,7 @@ class ifelseifDemo
 ## Nested-If
 Nested-If berarti if statement di dalam if-statement.
 
-gambar
+![Nested If](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/4.Java%20Control%20Flow%20Statements/img/nested-if-modified-1.png "Nested if")
 
 ```java
 // Java program to illustrate nested-if statement 
@@ -58,7 +58,7 @@ class NestedIfDemo
 ## Switch Statement
 Switch Statement memiliki banyak jalur sesuai hasil eksekusi yang terjadi.
 
-gambar
+![Switch](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/4.Java%20Control%20Flow%20Statements/img/switch-case.png "Switch")
 
 ```java
 // Java program to illustrate switch-case 
@@ -182,7 +182,7 @@ public class Test {
 ## While Loops
 While loops mengizinkan kode dapat dieksekusi secara berulang tergantung pada kondisinya.
 
-gambar
+![while loop](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/4.Java%20Control%20Flow%20Statements/img/Loop1.png "While loop")
 
 ```java
 // Java program to illustrate while loop 
@@ -208,7 +208,7 @@ class whileLoopDemo
 ## For Loop
 For loop memberikan perulangan secara rinkas dan dapat dibaca. Tidak seperti while loop, for loop menuliskan initialization, condition dan increment/decrement pada baris yang sama.
 
-gambar
+![for loop](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/4.Java%20Control%20Flow%20Statements/img/loop2.png "Foor loop")
 
 ```java
 // Java program to illustrate for loop. 
@@ -269,6 +269,9 @@ public class enhancedforloop
 
 ## Do While
 Sama seperti While loop perbedaannya mengeksekusi statement sebelum melakukan pengecekan kondisi.
+
+![do while](https://github.com/helmiz/belajar-java/blob/master/3.Java-Basics/4.Java%20Control%20Flow%20Statements/img/loop3.png "Do While")
+
 ```java
 // Java program to illustrate do-while loop 
 class dowhileloopDemo 
