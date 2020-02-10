@@ -1,4 +1,4 @@
-﻿# Polimorfhisme
+﻿# Polimorphisme
 Polimorfisme dalam OOP adalah sebuah prinsip di mana class dapat memiliki banyak **“bentuk”** method yang berbeda-beda meskipun namanya sama. **“Bentuk”** di sini dapat kita artikan: isinya berbeda, parameternya berbeda, dan tipe datanya berbeda.
 Polimorfisme pada Java ada dua macam:
 
