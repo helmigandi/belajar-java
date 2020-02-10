@@ -8,7 +8,7 @@ Polimorfisme pada Java ada dua macam:
 ## Upcasting
 Digunakan saat Superclass merujuk pada Subclass Object.
 
-gambar 1
+![Gambar 1](https://github.com/helmiz/belajar-java/blob/master/3.OOP/7.Polymorfisme/img/gambar1.jpeg "Gambar 1")
 
 ```java
 class Animal {
